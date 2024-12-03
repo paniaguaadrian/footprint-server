@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/paniaguaadrian/footprint-server/compare/v0.0.2...v0.0.3) (2024-12-03)
+
+
+### Features
+
+* **database:** add mongoDB and mongoose as a database + user crud ([ecb4e49](https://github.com/paniaguaadrian/footprint-server/commit/ecb4e49afacea38d7a5c9c79f53647630613a8bb))
+
 ### 0.0.2 (2024-12-02)
 
 
